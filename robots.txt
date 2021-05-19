@@ -114,4 +114,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://ublogger.netlify.app/sitemap.xml
+Sitemap: https://lordrukie-blog.vercel.app/sitemap.xml

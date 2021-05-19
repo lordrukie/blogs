@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>LordRukie&#39;s Blog</title>
-        <link>https://ublogger.netlify.app/</link>
+        <link>https://lordrukie-blog.vercel.app/</link>
         <description>LordRukie&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 19 May 2021 17:52:52 &#43;0900</lastBuildDate>
-            <atom:link href="https://ublogger.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://lordrukie-blog.vercel.app/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Beasiswa Pemrograman IDCamp Tahun 2021, Gratis!</title>
-    <link>https://ublogger.netlify.app/1-beasiswa-idcamp-2021/</link>
+    <link>https://lordrukie-blog.vercel.app/1-beasiswa-idcamp-2021/</link>
     <pubDate>Wed, 19 May 2021 17:52:52 &#43;0900</pubDate>
     <author>LordRukie</author>
-    <guid>https://ublogger.netlify.app/1-beasiswa-idcamp-2021/</guid>
+    <guid>https://lordrukie-blog.vercel.app/1-beasiswa-idcamp-2021/</guid>
     <description><![CDATA[<p>Hai👋, beberapa minggu lalu ada program beasiswa yang menarik nih, yaitu IDCamp 2021, beasiswa ini merupakan beasiswa pemrograman yang bekerjasama dengan Dicoding sebagai penyedia kelas pembelajaran secara <strong>GRATIS</strong>.</p>]]></description>
 </item></channel>
 </rss>
