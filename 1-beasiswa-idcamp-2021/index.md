@@ -23,10 +23,10 @@ Program IDCamp ini menyediakan **6 Learning Path** yang dimulai dari kelas dasar
 > **iOS Developer**  
 > Dalam kelas ini, kalian akan belajar untuk menjadi seorang iOS Developer. iOS Developer merupakan Developer yang berspesialisasi dalam merancang dan membangun aplikasi untuk pasar operating system iOS. Apel:apple: nih :laughing:.  Tetapi untuk mengikuti kelas ini, kalian diwajibkan memiliki macbook karena software yang digunakan (XCode) hanya dapat berjalan pada MacOS. Bahasa yang dipelajari dalam Learning Path ini adalah Swift.
 
-> **Machine Learning Developer**
+> **Machine Learning Developer**  
 > Dalam learning Path kali ini, kalian akan belajar untuk menjadi seorang Machine Learning Developer menggunakan bahasa python. Machine Learning Developer sendiri bertujuan untuk membuat sistem atau algoritma yang terus belajar dari data dan meningkatkan akurasinya dari waktu ke waktu. Contohnya adalah AI atau Artificial Intelegence.
 
-> **Multi Platform Developer** 
+> **Multi Platform Developer**  
 > Yang terakhir adalah Multi Platform Developer. Pada Learning Path ini kalian akan membuat program yang dapat dijalankan dalam berbagai platform seperti Android, iOS, dan bahkan website. Kalian akan belajar membuat program tersebut menggunakan bahasa pemrograman Dart dan sebuah Dart framework populer yang bernama Flutter.
 
 Banyak banget tuh Learning Path yang tersedia, kalian tertarik ke Learning Path yang mana nih?:smile:
